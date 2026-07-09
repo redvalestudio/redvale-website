@@ -1,0 +1,8 @@
+{
+  "name": "red-vale-studio",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {"dev":"next dev --turbopack","build":"next build","start":"next start","lint":"next lint"},
+  "dependencies": {"@hookform/resolvers":"latest","@supabase/ssr":"latest","@supabase/supabase-js":"latest","framer-motion":"latest","gsap":"latest","lenis":"latest","lucide-react":"latest","next":"15.5.20","react":"19.1.1","react-dom":"19.1.1","react-hook-form":"latest","resend":"latest","zod":"latest"},
+  "devDependencies": {"@types/node":"latest","@types/react":"latest","@types/react-dom":"latest","autoprefixer":"latest","eslint":"latest","eslint-config-next":"15.5.20","postcss":"latest","tailwindcss":"^3.4.17","typescript":"latest"}
+}

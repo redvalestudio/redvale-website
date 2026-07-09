@@ -1,0 +1,1 @@
+{"framework":"nextjs","headers":[{"source":"/(.*)","headers":[{"key":"X-Frame-Options","value":"SAMEORIGIN"},{"key":"X-DNS-Prefetch-Control","value":"on"}]}]}

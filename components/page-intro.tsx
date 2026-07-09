@@ -1,0 +1,2 @@
+import{Reveal}from"./reveal";
+export function PageIntro({kicker,title,copy}:{kicker:string;title:string;copy:string}){return <section className="grid-lines border-b hairline pb-20 pt-44 md:pb-28"><div className="container"><p className="eyebrow">{kicker}</p><Reveal><h1 className="display mt-8 max-w-6xl text-[clamp(4.5rem,10vw,9rem)]">{title}</h1><p className="mt-10 max-w-xl text-sm leading-7 text-muted md:ml-auto md:text-base">{copy}</p></Reveal></div></section>}
